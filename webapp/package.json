@@ -53,7 +53,7 @@
 		"imagemin-svgo": "^10.0.1",
 		"imagemin-webp": "^7.0.0",
 		"immutable": "3.7.6",
-    	"mattermost-redux": "5.33.1",
+    	"mattermost-redux": "10.6.0",
 		"lodash": "^4.17.21",
 		"marked": "^4.0.12",
 		"mini-create-react-context": "^0.4.1",
